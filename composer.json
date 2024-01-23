@@ -1,12 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "jetsdev/lomelly",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "An eCommerce solution",
     "keywords": [
         "laravel",
-        "framework"
+        "ecommerce",
+        "subscriptions"
     ],
-    "license": "MIT",
+    "license": "AGPL-3.0",
     "require": {
         "php": "^8.1",
         "filament/filament": "^3.2",
